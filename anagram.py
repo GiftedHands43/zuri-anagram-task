@@ -25,5 +25,3 @@ else:
     
 word = "Dear"
 anagram = "Read"
- https://github.com/GiftedHands43/zur-readi-text-file-task.git
-find_anagram(word, anagram)
